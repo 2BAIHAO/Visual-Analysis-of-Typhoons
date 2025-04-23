@@ -7,4 +7,4 @@
 - Interactive spatiotemporal mapping of disaster locations/ - 灾害位置的交互式时空映射
 - Spatiotemporal visualization of typhoon trajectories/ - 台风轨迹的时空可视化 
 - Visualization of Disaster Impact Duration/ - 灾害影响持续时间的可视化
-
+- Multidimensional Filtering of Affected Locations and Interactive Map Visualization/ - 受影响区域的多维度筛选与交互式地图可视化
